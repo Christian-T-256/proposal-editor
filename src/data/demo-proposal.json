@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "slug": "northwind-dental-demo",
+  "updatedAt": "2026-01-15T14:30:00.000Z",
+  "meta": {
+    "title": "Patient Follow-up Workflow",
+    "description": "A fictional proposal for a clearer patient follow-up process.",
+    "theme": "cedar"
+  },
+  "hero": {
+    "eyebrow": "Workflow proposal",
+    "title": "Make every patient follow-up visible",
+    "summary": "Northwind Dental needs one dependable place to see which patients need a response, what happened last, and who owns the next action.",
+    "preparedFor": "Jamie Rivera at Northwind Dental"
+  },
+  "sections": [
+    {
+      "id": "problem",
+      "eyebrow": "Current friction",
+      "heading": "The handoff disappears between systems",
+      "body": "A patient can leave a message, reply to a reminder, or ask a question at the front desk. The team has no shared queue that connects those moments, so follow-up depends on memory.",
+      "bullets": [
+        "Requests arrive through several channels",
+        "Ownership is unclear after a handoff",
+        "Managers cannot spot an aging request early"
+      ]
+    },
+    {
+      "id": "solution",
+      "eyebrow": "Proposed system",
+      "heading": "A small queue with clear ownership",
+      "body": "The workflow collects follow-up requests in one board, assigns an owner, and records the next action. A daily exception view highlights anything that has waited too long.",
+      "bullets": [
+        "One intake path for every follow-up request",
+        "Named owner and next action on every item",
+        "Daily exception list for unresolved requests"
+      ]
+    },
+    {
+      "id": "delivery",
+      "eyebrow": "Delivery",
+      "heading": "Build, test, and hand off",
+      "body": "We will map the current handoff, configure the workflow, test it with fictional records, and train the team on the operating checklist.",
+      "bullets": [
+        "Workflow map and acceptance checklist",
+        "Configured queue and status rules",
+        "Team walkthrough and handoff notes"
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Ready for a controlled pilot",
+    "body": "Approval authorizes the team to schedule discovery and turn this proposal into a final implementation plan. No payment is collected on this page."
+  },
+  "acceptance": {
+    "enabled": true,
+    "heading": "Approve the next step",
+    "statement": "By signing, you confirm that the proposal reflects the workflow you want evaluated during discovery.",
+    "checkboxLabel": "I have reviewed this fictional proposal and approve the discovery step.",
+    "buttonLabel": "Sign and approve"
+  }
+}
